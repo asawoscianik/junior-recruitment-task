@@ -1,3 +1,12 @@
+# Instrukcja uruchomienia aplikacji
+
+## Backend
+  1. W terminalu przejdź do folderu `backend` i uruchom komende `npm install`. 
+  2. Nastepnie uruchom komende `node server.js`.
+  
+## Frontend 
+  1. Wejdz do folderu `frontend` i uruchom plik `index.html`.
+
 # Zadanie dla Junior Developera
 
 Realizacja prostej listy ToDo (lista zadań do zrobienia) jako aplikacji internetowej, z wykorzystaniem HTML5 po stronie frontendu i dowolnej technologi po stronie backendu. Aplikacja umożliwia dodawanie, przeglądanie i oznaczanie jako wykonane różnych zadań, które zapisywane będą w bazie danych `SQLite`.
